@@ -1,1 +1,0 @@
-To determine the shortest path from a warehouse to a customer location in a delivery network. The objective is to compare the performance of Dijkstra's and Bellman-Ford algorithms in finding the most efficient routes.
